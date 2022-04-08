@@ -6,4 +6,5 @@ Additionally, a live leaderboard is also implemented to display the top 3 player
 
 ## How To Run
 1. Please ensure that you have [Java SDK](https://www.oracle.com/java/technologies/downloads/#java17) installed.
-2. 
+2. Clone the repository with your preferred Git client or download the ZIP file of the repository.
+3. Run the `BoatRace.java` on your preferred code editor such as [Eclipse IDE.](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
